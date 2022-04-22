@@ -1,0 +1,6 @@
+C:\Users\KW\source\repos\PilotBase\Gra RPG\bin\Debug\Gra RPG.exe.config
+C:\Users\KW\source\repos\PilotBase\Gra RPG\bin\Debug\Gra RPG.exe
+C:\Users\KW\source\repos\PilotBase\Gra RPG\bin\Debug\Gra RPG.pdb
+C:\Users\KW\source\repos\PilotBase\Gra RPG\obj\Debug\Gra RPG.csproj.CoreCompileInputs.cache
+C:\Users\KW\source\repos\PilotBase\Gra RPG\obj\Debug\Gra RPG.exe
+C:\Users\KW\source\repos\PilotBase\Gra RPG\obj\Debug\Gra RPG.pdb

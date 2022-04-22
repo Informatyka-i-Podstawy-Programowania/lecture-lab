@@ -1,0 +1,7 @@
+C:\Users\KW\source\repos\PilotBase\PilotBase\bin\Debug\PilotBase.exe.config
+C:\Users\KW\source\repos\PilotBase\PilotBase\bin\Debug\PilotBase.exe
+C:\Users\KW\source\repos\PilotBase\PilotBase\bin\Debug\PilotBase.pdb
+C:\Users\KW\source\repos\PilotBase\PilotBase\obj\Debug\PilotBase.csprojAssemblyReference.cache
+C:\Users\KW\source\repos\PilotBase\PilotBase\obj\Debug\PilotBase.csproj.CoreCompileInputs.cache
+C:\Users\KW\source\repos\PilotBase\PilotBase\obj\Debug\PilotBase.exe
+C:\Users\KW\source\repos\PilotBase\PilotBase\obj\Debug\PilotBase.pdb
